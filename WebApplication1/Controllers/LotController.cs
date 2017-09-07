@@ -19,6 +19,6 @@ namespace WebApplication1.Controllers
             _lotService.CreateLot(lot);
         }
         
-        //???
+        
     }
 }
