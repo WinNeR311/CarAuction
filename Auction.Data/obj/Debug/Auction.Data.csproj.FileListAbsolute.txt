@@ -1,0 +1,5 @@
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.Data\bin\Debug\Auction.Data.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.Data\bin\Debug\Auction.Data.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.Data\obj\Debug\Auction.Data.csprojResolveAssemblyReference.cache
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.Data\obj\Debug\Auction.Data.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.Data\obj\Debug\Auction.Data.pdb

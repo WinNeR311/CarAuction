@@ -1,0 +1,12 @@
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\Auction.BusinessLogic.dll.config
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\Auction.BusinessLogic.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\Auction.BusinessLogic.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\Auction.Data.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\Auction.Data.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\obj\Debug\Auction.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\obj\Debug\Auction.BusinessLogic.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\Auction\WebApplication1\Auction.BusinessLogic\obj\Debug\Auction.BusinessLogic.pdb
